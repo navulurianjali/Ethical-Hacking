@@ -1,0 +1,6 @@
+msfvenom --help
+msfvenom --list payloads | head -20
+echo "BOOT SECTOR VIRUS - SAFE LAB DEMO" > boot_demo.txt
+file boot_demo.txt
+ls -lh boot_demo.txt
+cat boot_demo.txt
