@@ -1,0 +1,3 @@
+cd lab_folder
+cp ../sample.txt .
+ls
