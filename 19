@@ -1,0 +1,2 @@
+ping -c 5 google.com
+curl http://example.com
