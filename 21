@@ -1,0 +1,5 @@
+echo '@echo off' > sample.bat
+echo 'echo Batch File Execution' >> sample.bat
+echo 'echo Hello from Kali Linux' >> sample.bat
+cat sample.bat
+bash sample.bat
